@@ -1,0 +1,20 @@
+G:\AIUB\Semester\7th semester\OOP2\Project\Calculator\Calculator\bin\Debug\Calculator.exe.config
+G:\AIUB\Semester\7th semester\OOP2\Project\Calculator\Calculator\bin\Debug\Calculator.exe
+G:\AIUB\Semester\7th semester\OOP2\Project\Calculator\Calculator\bin\Debug\Calculator.pdb
+G:\AIUB\Semester\7th semester\OOP2\Project\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+G:\AIUB\Semester\7th semester\OOP2\Project\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+G:\AIUB\Semester\7th semester\OOP2\Project\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+G:\AIUB\Semester\7th semester\OOP2\Project\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+G:\AIUB\Semester\7th semester\OOP2\Project\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+G:\AIUB\Semester\7th semester\OOP2\Project\Calculator\Calculator\obj\Debug\Calculator.exe
+G:\AIUB\Semester\7th semester\OOP2\Project\Calculator\Calculator\obj\Debug\Calculator.pdb
+G:\AIUB\Semester\7th semester\OOP2\OOP2 Project\Inventory Management System\Project\Calculator\Calculator\bin\Debug\Calculator.exe.config
+G:\AIUB\Semester\7th semester\OOP2\OOP2 Project\Inventory Management System\Project\Calculator\Calculator\bin\Debug\Calculator.exe
+G:\AIUB\Semester\7th semester\OOP2\OOP2 Project\Inventory Management System\Project\Calculator\Calculator\bin\Debug\Calculator.pdb
+G:\AIUB\Semester\7th semester\OOP2\OOP2 Project\Inventory Management System\Project\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+G:\AIUB\Semester\7th semester\OOP2\OOP2 Project\Inventory Management System\Project\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+G:\AIUB\Semester\7th semester\OOP2\OOP2 Project\Inventory Management System\Project\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+G:\AIUB\Semester\7th semester\OOP2\OOP2 Project\Inventory Management System\Project\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+G:\AIUB\Semester\7th semester\OOP2\OOP2 Project\Inventory Management System\Project\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+G:\AIUB\Semester\7th semester\OOP2\OOP2 Project\Inventory Management System\Project\Calculator\Calculator\obj\Debug\Calculator.exe
+G:\AIUB\Semester\7th semester\OOP2\OOP2 Project\Inventory Management System\Project\Calculator\Calculator\obj\Debug\Calculator.pdb
